@@ -1,14 +1,10 @@
 {
     "name": "yangchangdong/ycd",
-    "description": "test project ycd",
-    "type": "project",
-    "license": "MIT",
     "authors": [
         {
             "name": "yangchangdong",
             "email": "yangchangdong@126.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
